@@ -1,0 +1,9 @@
+# python virtual environment
+/venv
+
+# data directory
+/data
+
+# test output directory
+/test
+/output
