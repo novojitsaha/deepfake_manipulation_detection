@@ -7,3 +7,6 @@
 # test output directory
 /test
 /output
+
+# ml models directory
+/models
