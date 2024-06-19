@@ -3,6 +3,7 @@
 
 # data directory
 /data
+/test_data
 
 # test output directory
 /test
